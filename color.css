@@ -8,3 +8,19 @@
     margin: 10px;
 }
 
+.outer1{
+    background-color: blue;
+    padding: 4px;
+}
+
+.inner1{
+    list-style: none;
+    margin: 10px;
+}
+
+.inner1 li{
+    padding-left: 22px;
+    background: url("images/mambooo.png") no-repeat left center;
+    background-size: 10px 10px;
+    background-color: white;
+}
